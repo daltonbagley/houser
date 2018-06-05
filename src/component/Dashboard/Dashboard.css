@@ -1,0 +1,44 @@
+.Dashboard{
+    background-color: #e5f4ec;
+    width: 1000px; 
+    margin: auto;
+    height: 100vh;
+    /* display: flex;
+    flex-direction: column ;
+    justify-content: space-evenly */
+
+}
+
+.btn {
+    background: #8aea92;
+    background-image: -webkit-linear-gradient(top, #8aea92, #2c7d32);
+    background-image: -moz-linear-gradient(top, #8aea92, #2c7d32);
+    background-image: -ms-linear-gradient(top, #8aea92, #2c7d32);
+    background-image: -o-linear-gradient(top, #8aea92, #2c7d32);
+    background-image: linear-gradient(to bottom, #8aea92, #2c7d32);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 11px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .HouseList{
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: column;
+  }

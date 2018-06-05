@@ -1,0 +1,19 @@
+.link{
+    color: red;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    border: 2px;
+    text-decoration: none;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 200px;
+    margin: auto;
+}
